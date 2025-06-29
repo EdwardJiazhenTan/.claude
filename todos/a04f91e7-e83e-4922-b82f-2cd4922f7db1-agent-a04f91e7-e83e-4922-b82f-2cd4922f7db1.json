@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Explore current codebase structure and shader implementation",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Identify and fix shader styling issues",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Enhance Chinese ink painting animation effects",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  }
+]
