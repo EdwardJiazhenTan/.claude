@@ -1,0 +1,7 @@
+# Claude Code session data
+statsig/
+todos/
+projects/
+
+# Credentials
+.credentials.json
